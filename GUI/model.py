@@ -1,3 +1,3 @@
 class HousePricePredictor:
-    def generate_price():
+    def generate_price(area, bed, bath):
         pass
